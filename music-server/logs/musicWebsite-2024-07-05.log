@@ -1,0 +1,44 @@
+2024-07-05 23:02:31 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 17.0.1 on Annhe with PID 17300 (E:\SoftwareTask\music\music-website-master\music-server\target\classes started by HP in E:\SoftwareTask\music\music-website-master\music-server)
+2024-07-05 23:02:31 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2024-07-05 23:02:31 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-05 23:02:31 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-05 23:02:32 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-07-05 23:02:32 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-05 23:02:32 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 26 ms. Found 0 Redis repository interfaces.
+2024-07-05 23:02:34 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8898 (http)
+2024-07-05 23:02:34 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3112 ms
+2024-07-05 23:02:35 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-07-05 23:02:35 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8898 (http) with context path ''
+2024-07-05 23:02:35 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 5.048 seconds (JVM running for 6.316)
+2024-07-05 23:07:01 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2024-07-05 23:07:01 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 0 ms
+2024-07-05 23:07:01 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /
+2024-07-05 23:07:01 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /favicon.ico
+2024-07-05 23:09:15 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:11:05 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:15:03 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:17:07 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:17:16 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:17:59 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:18:00 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:20:21 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:20:21 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:22:22 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 17.0.1 on Annhe with PID 19740 (E:\SoftwareTask\music\music-website-master\music-server\target\classes started by HP in E:\SoftwareTask\music\music-website-master\music-server)
+2024-07-05 23:22:22 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2024-07-05 23:22:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-05 23:22:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-05 23:22:23 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-07-05 23:22:23 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-07-05 23:22:23 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2024-07-05 23:22:24 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8898 (http)
+2024-07-05 23:22:24 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1563 ms
+2024-07-05 23:22:24 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2024-07-05 23:22:24 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8898 (http) with context path ''
+2024-07-05 23:22:24 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 2.51 seconds (JVM running for 3.179)
+2024-07-05 23:24:21 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2024-07-05 23:24:21 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2024-07-05 23:24:21 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:28:40 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:29:36 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2024-07-05 23:31:39 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2024-07-05 23:31:39 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
